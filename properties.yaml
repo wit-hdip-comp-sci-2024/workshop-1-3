@@ -1,6 +1,8 @@
 credits   : Department of Computing & Mathematics, WIT
 slack     : https://setu-hdip-comp-sci-24.slack.com
 parent    : course/wit-hdip-comp-sci-2024
+auth      : 1
+ignorepin : 2125
 icon: 
   type: ri:bubble-chart-fill
   color: 009656
